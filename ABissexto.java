@@ -20,8 +20,7 @@ public class ABissexto {
 				}
 				
 			}while (aAtual<aFinal);
-			System.out.println("\nO intervalo em questão possui "+aBis+" ano(s) bissextos.");										       	
+			System.out.println("\nO intervalo em questÃ£o possui "+aBis+" ano(s) bissextos.");										       	
 	in.close();
 	}
-
 }
